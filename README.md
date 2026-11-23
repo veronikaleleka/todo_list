@@ -1,8 +1,16 @@
-🚀 Daily Task Manager
+## 🚀 Daily Task Manager
 
 A web application for managing daily work. Create tasks, tag them, track their progress from *Not started* to *Completed*, and see a summary of your workload on one dashboard.
 
 Built with Python, Django, and SQLite.
+
+## Screenshots
+
+### Dashboard and task list
+![Dashboard overview](dashboard.png)
+
+### Creating / editing a task
+![Task form](task-form.png)
 
 ## Features
 
